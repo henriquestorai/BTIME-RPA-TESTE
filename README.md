@@ -52,7 +52,7 @@ O projeto adota **Clean Architecture**, separando o código em camadas independe
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/btime-rpa-test.git
+git clone https://github.com/henriquestorai/BTIME-RPA-TESTE
 cd btime-rpa-test
 ```
 
@@ -62,7 +62,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### 3. Instale as dependências
+### 3. Instale as dependências (caso precise)
 ```bash
 pip install -r requirements.txt
 ```
