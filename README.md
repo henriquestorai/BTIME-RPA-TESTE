@@ -53,7 +53,7 @@ O projeto adota **Clean Architecture**, separando o código em camadas independe
 ### 1. Clone o repositório
 ```bash
 git clone https://github.com/henriquestorai/BTIME-RPA-TESTE
-cd btime-rpa-test
+cd BTIME-RPA-TESTE
 ```
 
 ### 2. Crie e ative o ambiente virtual
@@ -122,7 +122,7 @@ EUR,6.0314,scraping,30/03/2026 20:39:52
 - **`logs/`** — arquivo TXT com o log completo da execução
 ```
 [2026-03-30 20:39:48] [INFO] INICIANDO SCRIPT 1 — WEB SCRAPING
-[2026-03-30 20:39:52] [INFO] EXECUÇÃO FINALIZADA COM SUCESSO ✅
+[2026-03-30 20:39:52] [INFO] EXECUÇÃO FINALIZADA COM SUCESSO 
 ```
 
 - **E-mail automático** com status de sucesso ou detalhes do erro
