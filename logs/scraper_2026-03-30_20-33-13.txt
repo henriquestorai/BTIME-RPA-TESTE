@@ -1,0 +1,19 @@
+[2026-03-30 20:33:13] [INFO] Logger iniciado — arquivo: scraper_2026-03-30_20-33-13.txt
+[2026-03-30 20:33:13] [INFO] ==================================================
+[2026-03-30 20:33:13] [INFO]   INICIANDO SCRIPT 1 — WEB SCRAPING
+[2026-03-30 20:33:13] [INFO] ==================================================
+[2026-03-30 20:33:13] [INFO] Etapa 1/3 — Coletando cotações via Web Scraping...
+[2026-03-30 20:33:13] [INFO] Tentativa 1/3 — executando 'coletar_via_scraping'
+[2026-03-30 20:33:16] [WARNING] Tentativa 1/3 — FALHA: Nenhuma cotação foi coletada via scraping.
+[2026-03-30 20:33:16] [INFO] Aguardando 5s antes da próxima tentativa...
+[2026-03-30 20:33:21] [INFO] Tentativa 2/3 — executando 'coletar_via_scraping'
+[2026-03-30 20:33:24] [WARNING] Tentativa 2/3 — FALHA: Nenhuma cotação foi coletada via scraping.
+[2026-03-30 20:33:24] [INFO] Aguardando 5s antes da próxima tentativa...
+[2026-03-30 20:33:29] [INFO] Tentativa 3/3 — executando 'coletar_via_scraping'
+[2026-03-30 20:33:32] [WARNING] Tentativa 3/3 — FALHA: Nenhuma cotação foi coletada via scraping.
+[2026-03-30 20:33:32] [ERROR] Todas as 3 tentativas falharam para 'coletar_via_scraping'
+[2026-03-30 20:33:32] [ERROR] ERRO CRÍTICO NA EXECUÇÃO: Nenhuma cotação foi coletada via scraping.
+[2026-03-30 20:33:32] [INFO] ==================================================
+[2026-03-30 20:33:32] [INFO]   EXECUÇÃO FINALIZADA COM ERRO ❌
+[2026-03-30 20:33:32] [INFO] ==================================================
+[2026-03-30 20:33:36] [INFO] E-mail enviado com sucesso para storaideabreu@gmail.com

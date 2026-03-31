@@ -1,0 +1,13 @@
+# Variáveis de ambiente — contém senhas, nunca versionar
+.env
+
+# Ambiente virtual Python
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do sistema Mac
+.DS_Store
